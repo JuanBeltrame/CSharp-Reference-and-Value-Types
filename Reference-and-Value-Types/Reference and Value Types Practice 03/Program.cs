@@ -1,4 +1,5 @@
-﻿static void CambiarValor01(ref int number)
+﻿//--------Example Using REF and OUT--------
+static void CambiarValor01(ref int number)
 {
     number = number * 2;
 }

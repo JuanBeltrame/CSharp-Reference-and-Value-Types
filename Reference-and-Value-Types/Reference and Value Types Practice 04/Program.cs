@@ -1,4 +1,5 @@
-﻿static bool TryDivide(int x, int y, out int result)
+﻿//--------Example Using OUT--------
+static bool TryDivide(int x, int y, out int result)
 {
     if (y != 0)
     {
